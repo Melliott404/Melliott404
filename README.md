@@ -1,4 +1,4 @@
-<h1>Hello, I'm Marcus! <br/><a href="https://github.com/joshmadakor1">Aspiring Cybersecurity / SOC Analyst</a></h1>
+<h1>Hello, I'm Marcus! <br/><a href="https://www.linkedin.com/in/john-marcus-elliott-a1a7162a9/">Aspiring Cybersecurity / SOC Analyst</a></h1>
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
