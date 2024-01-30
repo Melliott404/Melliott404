@@ -4,7 +4,7 @@
 
 - <b>Professional Certifications:</b>
   [Google Cybersecurity Certification]
-    -(https://www.credly.com/badges/e861e228-a2b1-4fb8-b6b7-206f4f0ae263/public_url)
+  (https://www.credly.com/badges/e861e228-a2b1-4fb8-b6b7-206f4f0ae263/public_url)
 - <b>TryHackMe Profile & Certifications:</b>
   - [https://tryhackme.com/p/melliott404](https://tryhackme.com/p/melliott404)
   - [Pre-Security Certification](https://ibb.co/M2hZFfM)
