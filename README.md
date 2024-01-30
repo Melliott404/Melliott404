@@ -2,8 +2,12 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-- <b>TryHackMe Profile</b>
+- <b>Professional Certifications:</b>
+  [Google Cybersecurity Certification](https://www.credly.com/badges/e861e228-a2b1-4fb8-b6b7-206f4f0ae263/public_url)
+- <b>TryHackMe Profile & Certifications:</b>
   - [https://tryhackme.com/p/melliott404](https://tryhackme.com/p/melliott404)
+  - [Pre-Security Certification](https://ibb.co/M2hZFfM)
+  - [Web Fundamentals Certification](https://ibb.co/bP40pD6)
 - <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
 - <b>PowerShell</b>
