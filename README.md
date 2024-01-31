@@ -9,5 +9,7 @@
   - [https://tryhackme.com/p/melliott404](https://tryhackme.com/p/melliott404)
   - [Pre-Security Certification](https://ibb.co/M2hZFfM)
   - [Web Fundamentals Certification](https://ibb.co/bP40pD6)
-
+- <b>Other Certifications:</b>
+  -
+  -
 
