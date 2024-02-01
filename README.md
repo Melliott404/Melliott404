@@ -12,5 +12,5 @@
   - [Pre-Security Certification](https://ibb.co/M2hZFfM)
   - [Web Fundamentals Certification](https://ibb.co/bP40pD6)
 - <b>Projects:</b>
-  - [Vulnerability Management Using Nessus](https://www.evernote.com/shard/s704/sh/083d3eef-d3a8-3d11-d2f6-1280fa8bb356/Guejyi7CUtBwyyneRJIe0kveMmD8QMYKOvRZVCTUtRkjQ_iwdzzyeqCj9w)
+  - [Vulnerability Management Using Nessus](https://www.evernote.com/shard/s704/sh/083d3eef-d3a8-3d11-d2f6-1280fa8bb356/Guejyi7CUtBwyyneRJIe0kveMmD8QMYKOvRZVCTUtRkjQ_iwdzzyeqCj9w) (Using Windows 10 ISO on VMware Workstation)
 
