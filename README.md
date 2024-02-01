@@ -3,13 +3,14 @@
 <h2>👨‍💻 Cybersecurity Certifications & Projects:</h2>
 
 - <b>Professional Certifications:</b>
-  - [Google Cybersecurity Certification](https://ibb.co/C7gbjdR)
   - Security+ In Progress...
+  - [Google Cybersecurity Certification](https://ibb.co/C7gbjdR)
+  - Google IT Support In Progress...
+  - ISC2-CC In Progress...
 - <b>TryHackMe Profile & Certifications:</b>
   - [https://tryhackme.com/p/melliott404](https://tryhackme.com/p/melliott404)
   - [Pre-Security Certification](https://ibb.co/M2hZFfM)
   - [Web Fundamentals Certification](https://ibb.co/bP40pD6)
-- <b>Other Certifications:</b>
-  -
-  -
+- <b>Projects:</b>
+  - [Vulnerability Management Using Nessus](https://www.evernote.com/shard/s704/sh/083d3eef-d3a8-3d11-d2f6-1280fa8bb356/Guejyi7CUtBwyyneRJIe0kveMmD8QMYKOvRZVCTUtRkjQ_iwdzzyeqCj9w)
 
