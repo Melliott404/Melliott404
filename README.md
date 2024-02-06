@@ -5,8 +5,8 @@
 - <b>Professional Certifications:</b>
   - Security+ In Progress...
   - [Google Cybersecurity Certification](https://ibb.co/C7gbjdR)
+  - [ISC2-CC](https://ibb.co/HHRZP1q)
   - Google IT Support In Progress...
-  - ISC2-CC In Progress...
 - <b>TryHackMe Profile & Certifications:</b>
   - [https://tryhackme.com/p/melliott404](https://tryhackme.com/p/melliott404)
   - [Pre-Security Certification](https://ibb.co/M2hZFfM)
